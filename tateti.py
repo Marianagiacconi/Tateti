@@ -26,8 +26,6 @@ class TaTeTi():
                 return self.po       
    
     def win(self):
-
-​       jugador = ' o '
 ​       jugadores = [' o ', ' x ']
 ​       result = False
 ​       for jugador in jugadores:
